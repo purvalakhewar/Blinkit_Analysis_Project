@@ -104,6 +104,30 @@ Faster delivery times correlate with better customer ratings
 
 Specific categories perform better under price-matched strategies
 
+Sheets
+
+1. <img width="1652" height="800" alt="Screenshot 2026-02-02 112200" src="https://github.com/user-attachments/assets/a3069582-69a7-454e-b3f0-30756e40ec64" />
+2. <img width="1653" height="799" alt="Screenshot 2026-02-02 112216" src="https://github.com/user-attachments/assets/cff0d2ab-74ad-466f-92d2-60dd2b625a3d" />
+3. <img width="1654" height="797" alt="Screenshot 2026-02-02 112236" src="https://github.com/user-attachments/assets/18488785-ce76-41bb-bdc9-f1d6a1c2e06f" />
+4. <img width="1653" height="801" alt="Screenshot 2026-02-02 112252" src="https://github.com/user-attachments/assets/afc0dee4-7973-4de3-8ef9-95c88358c84c" />
+5. <img width="1649" height="805" alt="Screenshot 2026-02-02 112303" src="https://github.com/user-attachments/assets/e23bb485-7c9a-4832-97cb-4eff16e66d37" />
+6. <img width="1654" height="801" alt="Screenshot 2026-02-02 112321" src="https://github.com/user-attachments/assets/a5dc58fe-d1e4-40df-b8e5-68cbdfd62dde" />
+7. <img width="1658" height="807" alt="Screenshot 2026-02-02 112353" src="https://github.com/user-attachments/assets/4da5b9ea-e09c-4c74-9e6e-172f62389302" />
+8. <img width="1657" height="799" alt="Screenshot 2026-02-02 112409" src="https://github.com/user-attachments/assets/9af1fd9f-754d-4641-8a9a-16699aae6bc0" />
+9. <img width="1656" height="799" alt="Screenshot 2026-02-02 112420" src="https://github.com/user-attachments/assets/48d6227d-31c3-45d9-9ef6-cb377cd6a1e4" />
+10. ![Uploading Screenshot 2026-02-02 112420.png…]()
+11. <img width="1657" height="802" alt="Screenshot 2026-02-02 112444" src="https://github.com/user-attachments/assets/d9712d71-b8fd-4c7a-80c8-dc6c2d1f01b9" />
+12. <img width="1658" height="809" alt="Screenshot 2026-02-02 112457" src="https://github.com/user-attachments/assets/cb8d7429-1e95-4d4b-8c3f-37b8dc857f9d" />
+13. <img width="1655" height="805" alt="Screenshot 2026-02-02 112509" src="https://github.com/user-attachments/assets/0ecfb456-1870-4547-9e87-0ec276980951" />
+14. <img width="1655" height="812" alt="Screenshot 2026-02-02 112519" src="https://github.com/user-attachments/assets/c4f58cdb-57fa-4f6a-9114-0b325cbde402" />
+15. <img width="1656" height="799" alt="Screenshot 2026-02-02 112536" src="https://github.com/user-attachments/assets/6384a335-b656-414d-ad61-3fd7682eeb7f" />
+16. ![Uploading Screenshot 2026-02-02 112549.png…]()
+
+Dashboards
+ 
+
+
+
 📌 Use Cases
 
 Business & pricing strategy analysis
