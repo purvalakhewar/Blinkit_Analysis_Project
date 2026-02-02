@@ -2,7 +2,8 @@
 
 📊 Blinkit Maharashtra Price Match Analysis – Tableau Project
 
-https://www.productmonk.io/p/blinkit-qcommerce-marketing
+
+<img width="751" height="295" alt="Screenshot 2026-02-02 123056" src="https://github.com/user-attachments/assets/cb4bf401-1dd2-4818-be4b-dbb1b1a0f6d8" />
 
 📌 Project Overview
 
