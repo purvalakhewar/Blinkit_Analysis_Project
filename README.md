@@ -115,15 +115,27 @@ Sheets
 7. <img width="1658" height="807" alt="Screenshot 2026-02-02 112353" src="https://github.com/user-attachments/assets/4da5b9ea-e09c-4c74-9e6e-172f62389302" />
 8. <img width="1657" height="799" alt="Screenshot 2026-02-02 112409" src="https://github.com/user-attachments/assets/9af1fd9f-754d-4641-8a9a-16699aae6bc0" />
 9. <img width="1656" height="799" alt="Screenshot 2026-02-02 112420" src="https://github.com/user-attachments/assets/48d6227d-31c3-45d9-9ef6-cb377cd6a1e4" />
-10. ![Uploading Screenshot 2026-02-02 112420.png…]()
+10.<img width="1656" height="805" alt="Screenshot 2026-02-02 112430" src="https://github.com/user-attachments/assets/083bf37a-6b52-4f5d-8e30-599086801b90" />
 11. <img width="1657" height="802" alt="Screenshot 2026-02-02 112444" src="https://github.com/user-attachments/assets/d9712d71-b8fd-4c7a-80c8-dc6c2d1f01b9" />
 12. <img width="1658" height="809" alt="Screenshot 2026-02-02 112457" src="https://github.com/user-attachments/assets/cb8d7429-1e95-4d4b-8c3f-37b8dc857f9d" />
 13. <img width="1655" height="805" alt="Screenshot 2026-02-02 112509" src="https://github.com/user-attachments/assets/0ecfb456-1870-4547-9e87-0ec276980951" />
 14. <img width="1655" height="812" alt="Screenshot 2026-02-02 112519" src="https://github.com/user-attachments/assets/c4f58cdb-57fa-4f6a-9114-0b325cbde402" />
 15. <img width="1656" height="799" alt="Screenshot 2026-02-02 112536" src="https://github.com/user-attachments/assets/6384a335-b656-414d-ad61-3fd7682eeb7f" />
-16.
+16.<img width="1658" height="805" alt="Screenshot 2026-02-02 112549" src="https://github.com/user-attachments/assets/10124138-e74b-431b-b54d-30430333b0b6" />
+17. <img width="1654" height="810" alt="Screenshot 2026-02-02 112603" src="https://github.com/user-attachments/assets/52453e29-305f-49f4-a6c3-37b0110a48c6" />
+
 Dashboards
- 
+1. <img width="1650" height="787" alt="Screenshot 2026-02-02 121429" src="https://github.com/user-attachments/assets/e9be1e4f-2f66-40f8-bd6a-7bb8964a0024" />
+2. <img width="1643" height="800" alt="Screenshot 2026-02-02 121517" src="https://github.com/user-attachments/assets/74cac01e-87e0-4b25-a81f-eb3232e22d74" />
+3. <img width="1632" height="775" alt="Screenshot 2026-02-02 121539" src="https://github.com/user-attachments/assets/72792800-b989-4123-af93-531ca9122df9" />
+4. <img width="1648" height="784" alt="Screenshot 2026-02-02 121552" src="https://github.com/user-attachments/assets/595a0baa-8c74-4199-a853-839d1b4004b1" />
+5. <img width="1646" height="779" alt="Screenshot 2026-02-02 121615" src="https://github.com/user-attachments/assets/11594d63-b52a-41cc-8e80-babef6be8482" />
+
+Storytelling
+1. <img width="1606" height="800" alt="Screenshot 2026-02-02 121642" src="https://github.com/user-attachments/assets/9fe633cf-0956-437a-baca-37d1afb34b08" />
+2. <img width="1643" height="794" alt="Screenshot 2026-02-02 151051" src="https://github.com/user-attachments/assets/fa3a3d83-cc18-4654-9b63-0a966cf549bd" />
+3. <img width="1588" height="783" alt="Screenshot 2026-02-02 121731" src="https://github.com/user-attachments/assets/4864af26-c29b-435a-be5a-6ead612e7b0e" />
+4. <img width="1579" height="795" alt="Screenshot 2026-02-02 121819" src="https://github.com/user-attachments/assets/f38ae812-0b50-4f5d-93f8-60de34af2b4c" />
 
 
 
